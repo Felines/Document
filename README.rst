@@ -1,6 +1,8 @@
-.. Sphinx: http://www.sphinx-doc.org/en/stable/
+.. _Sphinx: http://www.sphinx-doc.org/en/stable/
 
-Welcome to LifeDrip's documentation GitHub repository!
-======================================================
+LifeDrip's documentation's GitHub repository
+============================================
 
-The source of the documentation is contained within the folder 'source' and can be built using Sphinx_.
+Welcome to LifeDrip's documentation's GitHub repository!
+
+The source .rst files of the documentation are contained within the 'source' folder and can be built using Sphinx_.
