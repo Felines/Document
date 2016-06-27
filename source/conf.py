@@ -51,12 +51,12 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'README'
 
 # General information about the project.
 project = u'LifeDrip Documentation'
-copyright = u'2016, Anna Trnkalova'
-author = u'Anna Trnkalova'
+copyright = u'2016, Riganti'
+author = u'Riganti'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -146,7 +146,7 @@ html_theme = 'default'
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['.static']
+html_static_path = ['_static']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -234,7 +234,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'LifeDripDocumentation.tex', u'LifeDrip Documentation Documentation',
-     u'Anna Trnkalova', 'manual'),
+     u'Riganti', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

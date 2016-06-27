@@ -1,19 +1,6 @@
-Welcome to LifeDrip's documentation!
-====================================
+.. Sphinx: http://www.sphinx-doc.org/en/stable/
 
-LifeDrip is an ASP.NET website utilizing the DotVVM Framework.
+Welcome to LifeDrip's documentation GitHub repository!
+======================================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-   DotVVM Docs <https://www.dotvvm.com/docs/latest>
-   
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+The source of the documentation is contained within the folder 'source' and can be built using Sphinx_.
